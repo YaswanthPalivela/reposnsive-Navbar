@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.not-found-image {
+  width: 30%;
+}
+
+.not-heading-light {
+  margin: 0px;
+  color: #000000;
+}
+
+.not-heading-dark {
+  margin: 0px;
+  color: #ffffff;
+}
+
+.not-description-light {
+  color: #64748b;
+  font-weight: 500;
+}
+
+.not-description-dark {
+  color: #dcdcdc;
+  font-weight: 500;
+}
